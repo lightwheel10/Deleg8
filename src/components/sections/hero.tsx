@@ -98,7 +98,7 @@ export function Hero() {
 
               <div className="flex items-center gap-3 text-lg font-inter">
                 <span className="hover:opacity-80 transition-opacity cursor-pointer">
-                  Start Spitballing
+                What we can do
                 </span>
                 <span className="text-2xl">→</span>
               </div>
