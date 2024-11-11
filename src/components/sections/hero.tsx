@@ -79,7 +79,7 @@ export function Hero() {
           Deleg8
         </h1>
         
-        <h2 className="text-[clamp(2rem,3vw,3.0rem)] leading-[1.2] max-w-3xl font-inter font-light px-6">
+        <h2 className="text-[clamp(2rem,3vw,3.0rem)] leading-[1.2] max-w-3xl font-inter font-light px-6 mb-10 mt-2">
           Transform Ideas. Create Impact. Think Differently.
         </h2>
 
