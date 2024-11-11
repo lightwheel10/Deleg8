@@ -99,7 +99,7 @@ export function Offerings() {
           <Button 
             size="lg"
             variant="outline"
-            className="text-white border-white hover:bg-white hover:text-black"
+            className="text-white border-white hover:bg-white hover:text-black rounded-xl"
             onClick={() => openContactForm("Partner With Us")}
           >
             Partner With Us

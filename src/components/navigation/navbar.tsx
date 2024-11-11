@@ -68,7 +68,7 @@ export function Navbar() {
             <Button 
               size="sm" 
               variant="outline" 
-              className="text-white border-white hover:bg-white hover:text-black"
+              className="text-white border-white hover:bg-white hover:text-black rounded-xl"
               onClick={() => openContactForm("Contact Us")}
             >
               Contact

@@ -68,7 +68,7 @@ export function ServicesContent() {
           <Button 
             size="lg"
             variant="outline"
-            className="text-white border-white hover:bg-white hover:text-black flex items-center gap-2 mx-auto"
+            className="text-white border-white hover:bg-white hover:text-black flex items-center gap-2 mx-auto rounded-xl"
             onClick={() => openContactForm("Book a Consultation")}
           >
             <Calendar className="w-4 h-4" />

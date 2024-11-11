@@ -33,7 +33,7 @@ export function Contact() {
                 size="lg"
                 variant="outline"
                 className="text-white border-white hover:bg-white hover:text-black w-full md:w-auto
-                         flex items-center gap-2 text-lg py-6 px-8"
+                         flex items-center gap-2 text-lg py-6 px-8 rounded-xl"
                 onClick={() => openContactForm("Book a Consultation")}
               >
                 <Calendar className="w-5 h-5" />
